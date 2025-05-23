@@ -1,8 +1,0 @@
-Index	City_Name
-1	kigali
-2	huye
-3	muhanga
-4	musanze
-5	nyagatare
-6	rubavu
-7	rusizi
